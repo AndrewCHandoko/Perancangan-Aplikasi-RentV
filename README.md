@@ -1,4 +1,4 @@
-<h1>Perancangan Aplikasi RentV</h1>
+<h1>Perancangan Aplikasi RentV (Aplikasi Rental Kendaraan)</h1>
 
 <h1>Author, Desainer & Programmer</h1>
 Andrew C Handoko, Valdy Reado Silaen, Deni Julialdi, Arya Damar Pratama & Alliong Kurniawan 
